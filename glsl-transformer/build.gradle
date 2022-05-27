@@ -100,10 +100,10 @@ publishOnCentral {
     configureMavenCentral.set(true)
     projectDescription.set("GLSL Parsing, Program Transformation and Printing with ANTLR4")
     projectLongName.set("glsl-transformer")
-    projectUrl.set("https://github.com/douira/glsl-transformer")
-    scmConnection.set("git@github.com:douira/glsl-transformer.git")
+    projectUrl.set("https://github.com/IrisShaders/glsl-transformer")
+    scmConnection.set("git@github.com:IrisShaders/glsl-transformer.git")
     licenseName.set("glsl-transformer Noncommercial License 1.0.0")
-    licenseUrl.set("https://github.com/douira/glsl-transformer/blob/main/LICENSE")
+    licenseUrl.set("https://github.com/IrisShaders/glsl-transformer/blob/main/LICENSE")
 }
 
 publishing {
